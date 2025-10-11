@@ -1,54 +1,25 @@
-# Welcome to your Lovable project
+# Welcome to our cafe
+☕ Cafe Whisk Delights (AI-Powered Coffee Ordering Assistant)
 
-## Project info
+Cafe Whisk Delights is an AI-powered coffee ordering and billing assistant designed for café counters and small businesses.
+It enables sales staff to take orders seamlessly, customize drinks (milk type, size, add-ons), and generate real-time, itemized bills with café details, customer info, date, and time — downloadable instantly as a PDF.
 
-**URL**: https://lovable.dev/projects/712ed8c8-3c3a-4d9c-85b8-ed5e3d3675f7
+🚀 Features
 
-## How can I edit this code?
+🧠 AI Billing Assistant: Automatically summarizes customer orders with smart descriptions using OpenAI API.
 
-There are several ways of editing your application.
+🏗️ Dynamic UI: Built with React + TypeScript + Vite for fast, smooth development.
 
-**Use Lovable**
+💅 Modern Styling: Tailwind CSS + PostCSS for responsive layouts and minimal design.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/712ed8c8-3c3a-4d9c-85b8-ed5e3d3675f7) and start prompting.
+🧾 PDF Billing: Instantly generate and download receipts using jsPDF and html2canvas.
 
-Changes made via Lovable will be committed automatically to this repo.
+⚙️ Customizable Orders: Select coffee type, milk options, add-ons, quantity, and discounts.
 
-**Use your preferred IDE**
+🌐 Cross-Browser Compatibility: Auto-prefixer ensures consistent performance across browsers.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🔍 Linted & Typed: Uses ESLint with TypeScript for better code quality and maintainability.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
 ## What technologies are used for this project?
 
@@ -59,15 +30,10 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+- 📄 PDF Generation	jsPDF, html2canvas
+🤖 AI Integration	OpenAI API (for order descriptions)
+🔧 Linting	ESLint + typescript-eslint
 
-## How can I deploy this project?
+THE APP IS LIVE NOW CHECK ITT OUTT!!
+-- https://cafeai.netlify.app/ --
 
-Simply open [Lovable](https://lovable.dev/projects/712ed8c8-3c3a-4d9c-85b8-ed5e3d3675f7) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
