@@ -26,12 +26,18 @@ This project is built with:
 🏗️ Tech Stack:
 
 💻 Frontend Framework	React + TypeScript
+
 ⚙️ Build Tool	Vite
+
 🎨 Styling	Tailwind CSS + PostCSS
+
 🧩 Icons	lucide-react
+
 🤖 AI Integration	OpenAI API (for order descriptions)
+
 🔧 Linting	ESLint + typescript-eslint
-⚡ Dev Support	Bolt AI, Builder.io
+
+
 
 THE APP IS LIVE NOW CHECK ITT OUTT!!
 -- https://cafeai.netlify.app/ --
