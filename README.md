@@ -2,7 +2,7 @@
 ☕ Cafe Whisk Delights (AI-Powered Coffee Ordering Assistant)
 
 Cafe Whisk Delights is an AI-powered coffee ordering and billing assistant designed for café counters and small businesses.
-It enables sales staff to take orders seamlessly, customize drinks (milk type, size, add-ons), and generate real-time, itemized bills with café details, customer info, date, and time — downloadable instantly as a PDF.
+It enables sales staff to take orders seamlessly, customize drinks (milk type, size, add-ons), and generate real-time, itemized bills with café details, customer info, date, and time
 
 🚀 Features
 
@@ -11,8 +11,6 @@ It enables sales staff to take orders seamlessly, customize drinks (milk type, s
 🏗️ Dynamic UI: Built with React + TypeScript + Vite for fast, smooth development.
 
 💅 Modern Styling: Tailwind CSS + PostCSS for responsive layouts and minimal design.
-
-🧾 PDF Billing: Instantly generate and download receipts using jsPDF and html2canvas.
 
 ⚙️ Customizable Orders: Select coffee type, milk options, add-ons, quantity, and discounts.
 
@@ -30,7 +28,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-- 📄 PDF Generation	jsPDF, html2canvas
 🤖 AI Integration	OpenAI API (for order descriptions)
 🔧 Linting	ESLint + typescript-eslint
 
